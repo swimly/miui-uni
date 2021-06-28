@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "notify",
+  "usingComponents": {
+    "hc-page": "/components/hc-page/hc-page",
+    "hc-panel": "/components/hc-panel/hc-panel",
+    "hc-title": "/components/hc-title/hc-title",
+    "hc-button": "/components/hc-button/hc-button",
+    "hc-radio-group": "/components/hc-radio-group/hc-radio-group",
+    "hc-radio": "/components/hc-radio/hc-radio",
+    "hc-input": "/components/hc-input/hc-input",
+    "hc-switch": "/components/hc-switch/hc-switch",
+    "hc-notify": "/components/hc-notify/hc-notify"
+  }
+}

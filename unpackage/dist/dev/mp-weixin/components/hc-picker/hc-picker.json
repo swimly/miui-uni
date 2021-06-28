@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "hc-popup": "/components/hc-popup/hc-popup"
+  },
+  "component": true
+}

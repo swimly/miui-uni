@@ -1,0 +1,1 @@
+<view class="{{['hc-radio-group data-v-3257e5e4',vertical?'vertical':'']}}" style="{{(Styles)}}"><slot></slot></view>

@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['onClick',['$event']]]]]}}" class="{{['hc-mask',[(visible)?'visible':'']]}}" style="{{'background-color:'+(backgroundColor)+';'}}" bindtap="__e"><slot></slot></view>

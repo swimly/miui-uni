@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "form",
+  "usingComponents": {
+    "hc-page": "/components/hc-page/hc-page",
+    "hc-panel": "/components/hc-panel/hc-panel",
+    "hc-title": "/components/hc-title/hc-title",
+    "hc-form": "/components/hc-form/hc-form",
+    "hc-form-item": "/components/hc-form-item/hc-form-item",
+    "hc-input": "/components/hc-input/hc-input",
+    "hc-radio-group": "/components/hc-radio-group/hc-radio-group",
+    "hc-radio": "/components/hc-radio/hc-radio",
+    "hc-switch": "/components/hc-switch/hc-switch"
+  }
+}

@@ -1,0 +1,227 @@
+@font-face {font-family: "iconfont";
+  src: url('https://at.alicdn.com/t/font_1985298_ts3n3lwmuzc.eot?t=1596522090242'); /* IE9 */
+  src: url('https://at.alicdn.com/t/font_1985298_ts3n3lwmuzc.eot?t=1596522090242#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('https://at.alicdn.com/t/font_1985298_ts3n3lwmuzc.woff?t=1596522090242') format('woff'),
+  url('https://at.alicdn.com/t/font_1985298_ts3n3lwmuzc.ttf?t=1596522090242') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('https://at.alicdn.com/t/font_1985298_ts3n3lwmuzc.svg?t=1596522090242#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-add-circle:before {
+  content: "\e609";
+}
+
+.icon-minus-circle:before {
+  content: "\e60b";
+}
+
+.icon-add:before {
+  content: "\e60c";
+}
+
+.icon-minus:before {
+  content: "\e60d";
+}
+
+.icon-sort-desc:before {
+  content: "\e61b";
+}
+
+.icon-sort-asc:before {
+  content: "\e61c";
+}
+
+.icon-toggle-right:before {
+  content: "\e620";
+}
+
+.icon-toggle-left:before {
+  content: "\e621";
+}
+
+.icon-arrow-right:before {
+  content: "\e631";
+}
+
+.icon-arrow-up:before {
+  content: "\e632";
+}
+
+.icon-arrow-left:before {
+  content: "\e633";
+}
+
+.icon-arrow-down:before {
+  content: "\e634";
+}
+
+.icon-start:before {
+  content: "\e67d";
+}
+
+.icon-trangle-up:before {
+  content: "\e694";
+}
+
+.icon-trangle-right:before {
+  content: "\e695";
+}
+
+.icon-trangle-left:before {
+  content: "\e696";
+}
+
+.icon-trangle-down:before {
+  content: "\e697";
+}
+
+.icon-loading-circle:before {
+  content: "\e61f";
+}
+
+.icon-loading-half:before {
+  content: "\e6cd";
+}
+
+.icon-loading-line:before {
+  content: "\e676";
+}
+
+.icon-collection-fill:before {
+  content: "\e69e";
+}
+
+.icon-save:before {
+  content: "\e62c";
+}
+
+.icon-share:before {
+  content: "\e639";
+}
+
+.icon-record:before {
+  content: "\e647";
+}
+
+.icon-password:before {
+  content: "\e64b";
+}
+
+.icon-copy:before {
+  content: "\e64d";
+}
+
+.icon-scan:before {
+  content: "\e653";
+}
+
+.icon-upload:before {
+  content: "\e656";
+}
+
+.icon-delete:before {
+  content: "\e657";
+}
+
+.icon-more:before {
+  content: "\e65a";
+}
+
+.icon-refresh:before {
+  content: "\e660";
+}
+
+.icon-search:before {
+  content: "\e662";
+}
+
+.icon-tips:before {
+  content: "\e667";
+}
+
+.icon-user:before {
+  content: "\e670";
+}
+
+.icon-camera:before {
+  content: "\e671";
+}
+
+.icon-message:before {
+  content: "\e672";
+}
+
+.icon-setting:before {
+  content: "\e673";
+}
+
+.icon-application:before {
+  content: "\e675";
+}
+
+.icon-users:before {
+  content: "\e67b";
+}
+
+.icon-thumb:before {
+  content: "\e67c";
+}
+
+.icon-close-circle:before {
+  content: "\e681";
+}
+
+.icon-question:before {
+  content: "\e678";
+}
+
+.icon-edit:before {
+  content: "\e68f";
+}
+
+.icon-mute:before {
+  content: "\e691";
+}
+
+.icon-volume:before {
+  content: "\e692";
+}
+
+.icon-home:before {
+  content: "\e6aa";
+}
+
+.icon-close-circle-fill:before {
+  content: "\e6b1";
+}
+
+.icon-radio:before {
+  content: "\e624";
+}
+
+.icon-collection:before {
+  content: "\e606";
+}
+
+.icon-checkbox:before {
+  content: "\e607";
+}
+
+.icon-uncheck:before {
+  content: "\e608";
+}
+
+.icon-add-circle-fill:before {
+  content: "\e60a";
+}
+
+.icon-location:before {
+  content: "\e617";
+}

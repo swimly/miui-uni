@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "hc-popup": "/components/hc-popup/hc-popup",
+    "hc-button": "/components/hc-button/hc-button"
+  },
+  "component": true
+}

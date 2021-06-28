@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/calendar/index",
+    "pages/index/index",
+    "pages/actionsheet/index",
+    "pages/notify/index",
+    "pages/noticebar/index",
+    "pages/popup/index",
+    "pages/mask/index",
+    "pages/button/index",
+    "pages/img/index",
+    "pages/checkbox/index",
+    "pages/tab/index",
+    "pages/radio/index",
+    "pages/cell/index",
+    "pages/switch/index",
+    "pages/list/index",
+    "pages/icon/index",
+    "pages/title/index",
+    "pages/input/index",
+    "pages/grid/index",
+    "pages/badge/index",
+    "pages/alert/index",
+    "pages/toast/index",
+    "pages/number/index",
+    "pages/form/index",
+    "pages/picker/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#fff",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

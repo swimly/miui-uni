@@ -1,0 +1,1 @@
+<view class="hc-form__item"><view class="hc-form__item_label"><block wx:if="{{$slots.label}}"><slot name="label"></slot></block><block wx:else><text>{{label}}</text></block></view><view class="hc-form__item_value" style="{{'align-items:'+(alignStyle)+';'}}"><slot></slot></view></view>

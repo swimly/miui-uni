@@ -1,0 +1,1 @@
+<view class="hc-calendar__month" month="{{month}}"><slot></slot></view>

@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "hc-calendar-head": "/components/hc-calendar-head/hc-calendar-head",
+    "hc-calendar-content": "/components/hc-calendar-content/hc-calendar-content",
+    "hc-calendar-week": "/components/hc-calendar-week/hc-calendar-week",
+    "hc-calendar-day": "/components/hc-calendar-day/hc-calendar-day",
+    "hc-calendar-month": "/components/hc-calendar-month/hc-calendar-month"
+  },
+  "component": true
+}

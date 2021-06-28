@@ -1,0 +1,1 @@
+<view class="hc-calendar__head"><view class="hc-calendar__head_week"><block wx:for="{{weeks}}" wx:for-item="item" wx:for-index="index" wx:key="index"><text>{{item}}</text></block></view></view>

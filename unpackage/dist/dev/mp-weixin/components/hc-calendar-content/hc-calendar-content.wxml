@@ -1,0 +1,1 @@
+<view class="{{['hc-calendar__content',[(scrollable)?'scrollable':'']]}}" style="{{'transform:'+(scrollable?'translate3d(0, 0, 0)':'translate3d('+offset+'px, 0, 0)')+';'+('transition:'+(duration+'ms')+';')}}"><slot></slot></view>

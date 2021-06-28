@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "hc-mask": "/components/hc-mask/hc-mask",
+    "hc-icon": "/components/hc-icon/hc-icon"
+  },
+  "component": true
+}

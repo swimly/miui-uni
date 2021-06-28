@@ -1,0 +1,1 @@
+<view class="hc-grid__item" style="{{'width:'+(span/24*100+'%')+';'}}"><slot></slot></view>

@@ -1,0 +1,1 @@
+<view class="{{['hc-checkbox-group data-v-49904194',vertical?'vertical':'']}}"><slot></slot></view>

@@ -1,0 +1,1 @@
+<view class="hc-calendar__week" style="{{'width:'+(width+'px')+';'}}"><slot></slot></view>

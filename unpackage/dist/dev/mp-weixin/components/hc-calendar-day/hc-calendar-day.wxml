@@ -1,0 +1,1 @@
+<view class="{{['hc-calendar__day',[(isMonth)?'isMonth':'',(isCurrent)?'isCurrent':'']]}}" month="{{month}}"><text>{{dayString}}</text></view>

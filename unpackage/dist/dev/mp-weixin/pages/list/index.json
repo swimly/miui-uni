@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "list",
+  "usingComponents": {
+    "hc-page": "/components/hc-page/hc-page",
+    "hc-panel": "/components/hc-panel/hc-panel",
+    "hc-list": "/components/hc-list/hc-list"
+  }
+}

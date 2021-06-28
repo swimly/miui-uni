@@ -1,0 +1,1 @@
+<view class="hc-form"><slot></slot></view>

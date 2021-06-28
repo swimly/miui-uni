@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['onClick',['$event']]]]]}}" class="{{['hc-switch',size,[(active)?'checked':'']]}}" bindtap="__e"><view class="hc-switch__core" style="{{$root.s0}}"></view><text class="hc-switch__label">{{label}}</text></view>

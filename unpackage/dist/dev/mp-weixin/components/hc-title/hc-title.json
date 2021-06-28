@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "hc-icon": "/components/hc-icon/hc-icon",
+    "h-c-icon": "/components/hc-icon/hc-icon"
+  }
+}

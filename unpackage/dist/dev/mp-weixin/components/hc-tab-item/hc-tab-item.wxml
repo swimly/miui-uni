@@ -1,0 +1,1 @@
+<view class="{{['hc-tab__item data-v-690eb080',active?'active':'']}}" style="{{'padding:'+('0 '+tabGutter+'rpx')+';'+('height:'+(tabHeight+'rpx')+';')}}" id="{{elId}}" data-event-opts="{{[['tap',[['handleChange',['$event']]]]]}}" bindtap="__e"><slot></slot></view>

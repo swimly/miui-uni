@@ -1,0 +1,1 @@
+<view class="hc-list"><view class="hc-list__cover"></view><view class="hc-list__content"><text class="hc-list__title">{{title}}</text><text class="hc-list__time">{{time}}</text></view></view>

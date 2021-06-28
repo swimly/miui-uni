@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "icon",
+  "usingComponents": {
+    "hc-page": "/components/hc-page/hc-page",
+    "hc-panel": "/components/hc-panel/hc-panel",
+    "hc-title": "/components/hc-title/hc-title",
+    "hc-icon": "/components/hc-icon/hc-icon",
+    "hc-grid": "/components/hc-grid/hc-grid",
+    "hc-grid-item": "/components/hc-grid-item/hc-grid-item"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "hc-mask": "/components/hc-mask/hc-mask"
+  },
+  "component": true
+}
